@@ -1,0 +1,2 @@
+[run]
+omit = .venv/*,directory_proxy/conf/*,manage.py,tests/*,setup.py
